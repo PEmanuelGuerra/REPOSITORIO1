@@ -1,2 +1,1 @@
-# REPOSITORIO1
-este es un repositorio de prueba
+Este es un proyecto de prueba
